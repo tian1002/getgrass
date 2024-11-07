@@ -4,7 +4,7 @@
 
 目前市面上很多代挂工作室或者，本脚本主要服务需要的人
 
-项目官网https://app.getgrass.io/register/?referralCode=xv4tsqSC9SftAXJ
+项目官网https://app.getgrass.io/register/?referralCode=S7B3Qw4n59jxTQo
 
 为什么浏览器可以挖要用脚本？在浏览器环境必须打开浏览器才能挖，很多人想多号或者在linux等环境下运行，此时这个脚本就发挥用武之地
 
