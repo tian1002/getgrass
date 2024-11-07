@@ -50,8 +50,8 @@ async def authenticate(websocket, auth_id, device_id, user_id, agent):
             "user_id": user_id,
             "user_agent": agent,
             "timestamp": int(time.time()),
-            "device_type": "extension",
-            "version": "3.3.2"
+            "device_type": "desktop",
+            "version": "4.28.2"
         }
     }
     await send_message(websocket, auth_message)
